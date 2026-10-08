@@ -70,7 +70,7 @@ Bulk write tasks (such as setting a *Day Off*, which requires generating multipl
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/RobsonAndrade1/agendador-pro.git](https://github.com/RobsonAndrade1/agendador-pro.git)
+   git clone https://github.com/RobsonAndrade1/agendador-pro.git
 
 2. Install dependencies:
 
