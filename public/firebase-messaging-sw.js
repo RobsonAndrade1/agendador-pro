@@ -2,10 +2,10 @@ importScripts('https://www.gstatic.com/firebasejs/9.0.0/firebase-app-compat.js')
 importScripts('https://www.gstatic.com/firebasejs/9.0.0/firebase-messaging-compat.js');
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDRSQ0hMX9S6lJBsSreAjHqp3-M_vgks48",
-  projectId: "agendador-pro-dc88c",
-  messagingSenderId: "127182388260",
-  appId: "1:127182388260:web:ee2308f6e1007332282cb1",
+  apiKey: "YOUR_FIREBASE_API_KEY",
+  projectId: "YOUR_FIREBASE_PROJECT_ID",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_FIREBASE_APP_ID"
 });
 
 const messaging = firebase.messaging();
