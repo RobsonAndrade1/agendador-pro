@@ -1,5 +1,7 @@
 # ✂️ Agendador Pro - Intelligent Barbershop Management System
 
+> 🚀 **Live Demo:** [agendador-pro.vercel.app](https://agendador-pro.vercel.app)
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
